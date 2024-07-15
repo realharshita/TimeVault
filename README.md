@@ -1,5 +1,7 @@
 # TimeVault
 
+TimeVault is a Django-based application designed to manage tasks and time blocks. The project is currently in development and includes user registration, authentication, and a basic user interface for managing tasks.
+
 Public Link: https://www.figma.com/design/dSw18ZGE9B2HgvtGNiy62w/Untitled?node-id=0-1&t=VCcxCEQ8iP9k0H9k-1
 
 Key Features and Functionality:
